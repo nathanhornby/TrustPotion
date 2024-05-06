@@ -1,4 +1,5 @@
 # TrustPotion 💫
+[![Elixir](https://img.shields.io/badge/github-elixir-A468BF.svg?style=flat-square)](https://github.com/nathanhornby/mailerlite-elixir)
 A Trustpilot API wrapper for the [Elixir programming language](https://elixir-lang.org/).
 
 ## Contributing to this API wrapper
